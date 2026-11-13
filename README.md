@@ -26,4 +26,4 @@ Dev background: `ADVPL/TLPP` · `Angular` · enterprise ERP & financial systems
 [LinkedIn](https://www.linkedin.com/in/yurivinhote/)
 
 ---
-> *"I don't just find the bug — I know why the developer left it there, and how to fix it."*
+> *"I don't just find the bug... I know why the developer left it there, and how to fix it."*
