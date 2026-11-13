@@ -6,7 +6,7 @@ Web & API security · OWASP Top 10 · Burp Suite · breaking and fixing auth.
 ---
 
 ### 🔐 What I'm doing
-Since 2019 I've built enterprise systems, REST/SOAP APIs and banking integrations — now I hunt the bugs I used to write. I know the target from the inside, so I focus on **application-layer security**: authentication, access control, API abuse and business-logic flaws.
+Since 2019 I've built enterprise systems, REST/SOAP APIs and banking integrations, now I hunt the bugs I used to write. I know the target from the inside, so I focus on **application-layer security**: authentication, access control, API abuse and business-logic flaws.
 
 ### 🛠️ Currently
 - Working through the **PortSwigger Web Security Academy** (OWASP Top 10, hands-on)
