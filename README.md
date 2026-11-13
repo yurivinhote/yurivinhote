@@ -14,9 +14,9 @@ Since 2019 I've built enterprise systems, REST/SOAP APIs and banking integration
 - Building toward **BSCP** and bug bounty
 
 ### 📚 Writeups
-- Authentication Attacks — username enumeration, brute-force bypass, 2FA bypass, password reset abuse
-- SQL Injection — coming soon
-- Access Control / IDOR — coming soon
+- [Authentication Attacks](https://github.com/yurivinhote/websec-writeups/blob/main/authentication-attacks.md) — username enumeration, brute-force bypass, 2FA bypass, password reset abuse
+- *SQL Injection — coming soon*
+- *Access Control / IDOR — coming soon*
 
 ### 🧰 Stack
 `Burp Suite` · `OWASP Top 10` · `REST/SOAP APIs` · `SQL` · `Python` · `Git`
