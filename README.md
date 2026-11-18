@@ -17,6 +17,8 @@ Since 2019 I've built enterprise systems, REST/SOAP APIs and banking integration
 - [Authentication Attacks](https://github.com/yurivinhote/websec-writeups/blob/main/authentication-attacks.md) — username enumeration, brute-force bypass, 2FA bypass, password reset abuse
 - [Access Control & IDOR](https://github.com/yurivinhote/websec-writeups/blob/main/access-control-idor.md) — admin bypass, IDOR, leaked IDs, password disclosure
 - [Cross-Site Scripting (XSS)](https://github.com/yurivinhote/websec-writeups/blob/main/cross-site-scripting.md) — reflected, stored and DOM-based
+- [Server-Side Request Forgery (SSRF)](https://github.com/yurivinhote/websec-writeups/blob/main/ssrf.md) — localhost, internal network scan, blacklist bypass, open-redirect chaining, blind/OAST
+- [Path Traversal & OS Command Injection](https://github.com/yurivinhote/websec-writeups/blob/main/path-traversal-command-injection.md) — arbitrary file read and RCE via shell injection
 - *SQL Injection — coming soon*
 
 ### 🧰 Stack
